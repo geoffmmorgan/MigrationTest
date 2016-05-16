@@ -1,4 +1,4 @@
-﻿using Microsoft.Data.Entity;
+﻿using Microsoft.EntityFrameworkCore;
 using MigrationTest.Models;
 using System;
 using System.Collections.Generic;
